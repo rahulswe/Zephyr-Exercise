@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/RSingh/zephyr_exercise/04_project_from_scratch/build/_sysbuild/sysbuild/images/CMakeFiles/04_project_from_scratch"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/04_project_from_scratch/build/_sysbuild/sysbuild/images/CMakeFiles/04_project_from_scratch.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/04_project_from_scratch/build/_sysbuild/sysbuild/images/CMakeFiles/04_project_from_scratch-complete.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/04_project_from_scratch/build/_sysbuild/sysbuild/images/04_project_from_scratch-prefix/src/04_project_from_scratch-stamp/04_project_from_scratch-build.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/04_project_from_scratch/build/_sysbuild/sysbuild/images/04_project_from_scratch-prefix/src/04_project_from_scratch-stamp/04_project_from_scratch-configure.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/04_project_from_scratch/build/_sysbuild/sysbuild/images/04_project_from_scratch-prefix/src/04_project_from_scratch-stamp/04_project_from_scratch-download.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/04_project_from_scratch/build/_sysbuild/sysbuild/images/04_project_from_scratch-prefix/src/04_project_from_scratch-stamp/04_project_from_scratch-install.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/04_project_from_scratch/build/_sysbuild/sysbuild/images/04_project_from_scratch-prefix/src/04_project_from_scratch-stamp/04_project_from_scratch-mkdir.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/04_project_from_scratch/build/_sysbuild/sysbuild/images/04_project_from_scratch-prefix/src/04_project_from_scratch-stamp/04_project_from_scratch-patch.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/04_project_from_scratch/build/_sysbuild/sysbuild/images/04_project_from_scratch-prefix/src/04_project_from_scratch-stamp/04_project_from_scratch-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"04_project_from_scratch"
+		],
+		"name" : "04_project_from_scratch"
+	}
+}

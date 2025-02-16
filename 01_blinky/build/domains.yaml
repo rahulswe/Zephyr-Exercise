@@ -1,0 +1,7 @@
+default: 01_blinky
+build_dir: C:/RSingh/zephyr_exercise/01_blinky/build
+domains:
+  - name: 01_blinky
+    build_dir: C:/RSingh/zephyr_exercise/01_blinky/build/01_blinky
+flash_order:
+  - 01_blinky

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/RSingh/zephyr_exercise/08_mutex/build/_sysbuild/sysbuild/images/CMakeFiles/08_mutex"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/08_mutex/build/_sysbuild/sysbuild/images/CMakeFiles/08_mutex.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/08_mutex/build/_sysbuild/sysbuild/images/CMakeFiles/08_mutex-complete.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/08_mutex/build/_sysbuild/sysbuild/images/08_mutex-prefix/src/08_mutex-stamp/08_mutex-build.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/08_mutex/build/_sysbuild/sysbuild/images/08_mutex-prefix/src/08_mutex-stamp/08_mutex-configure.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/08_mutex/build/_sysbuild/sysbuild/images/08_mutex-prefix/src/08_mutex-stamp/08_mutex-download.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/08_mutex/build/_sysbuild/sysbuild/images/08_mutex-prefix/src/08_mutex-stamp/08_mutex-install.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/08_mutex/build/_sysbuild/sysbuild/images/08_mutex-prefix/src/08_mutex-stamp/08_mutex-mkdir.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/08_mutex/build/_sysbuild/sysbuild/images/08_mutex-prefix/src/08_mutex-stamp/08_mutex-patch.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/08_mutex/build/_sysbuild/sysbuild/images/08_mutex-prefix/src/08_mutex-stamp/08_mutex-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"08_mutex"
+		],
+		"name" : "08_mutex"
+	}
+}

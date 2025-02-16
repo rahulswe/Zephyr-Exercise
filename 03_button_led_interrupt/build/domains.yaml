@@ -1,0 +1,7 @@
+default: 03_button_led_interrupt
+build_dir: C:/RSingh/zephyr_exercise/03_button_led_interrupt/build
+domains:
+  - name: 03_button_led_interrupt
+    build_dir: C:/RSingh/zephyr_exercise/03_button_led_interrupt/build/03_button_led_interrupt
+flash_order:
+  - 03_button_led_interrupt

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/RSingh/zephyr_exercise/05_task_creation/build/_sysbuild/sysbuild/images/CMakeFiles/05_task_creation"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/05_task_creation/build/_sysbuild/sysbuild/images/CMakeFiles/05_task_creation.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/05_task_creation/build/_sysbuild/sysbuild/images/CMakeFiles/05_task_creation-complete.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/05_task_creation/build/_sysbuild/sysbuild/images/05_task_creation-prefix/src/05_task_creation-stamp/05_task_creation-build.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/05_task_creation/build/_sysbuild/sysbuild/images/05_task_creation-prefix/src/05_task_creation-stamp/05_task_creation-configure.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/05_task_creation/build/_sysbuild/sysbuild/images/05_task_creation-prefix/src/05_task_creation-stamp/05_task_creation-download.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/05_task_creation/build/_sysbuild/sysbuild/images/05_task_creation-prefix/src/05_task_creation-stamp/05_task_creation-install.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/05_task_creation/build/_sysbuild/sysbuild/images/05_task_creation-prefix/src/05_task_creation-stamp/05_task_creation-mkdir.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/05_task_creation/build/_sysbuild/sysbuild/images/05_task_creation-prefix/src/05_task_creation-stamp/05_task_creation-patch.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/05_task_creation/build/_sysbuild/sysbuild/images/05_task_creation-prefix/src/05_task_creation-stamp/05_task_creation-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"05_task_creation"
+		],
+		"name" : "05_task_creation"
+	}
+}

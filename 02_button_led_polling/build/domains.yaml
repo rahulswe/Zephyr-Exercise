@@ -1,0 +1,7 @@
+default: 02_button_led_polling
+build_dir: C:/RSingh/zephyr_exercise/02_button_led_polling/build
+domains:
+  - name: 02_button_led_polling
+    build_dir: C:/RSingh/zephyr_exercise/02_button_led_polling/build/02_button_led_polling
+flash_order:
+  - 02_button_led_polling

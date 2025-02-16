@@ -1,0 +1,13 @@
+# Target labels
+ 01_blinky
+# Source files and their labels
+C:/RSingh/zephyr_exercise/01_blinky/build/_sysbuild/sysbuild/images/CMakeFiles/01_blinky
+C:/RSingh/zephyr_exercise/01_blinky/build/_sysbuild/sysbuild/images/CMakeFiles/01_blinky.rule
+C:/RSingh/zephyr_exercise/01_blinky/build/_sysbuild/sysbuild/images/CMakeFiles/01_blinky-complete.rule
+C:/RSingh/zephyr_exercise/01_blinky/build/_sysbuild/sysbuild/images/01_blinky-prefix/src/01_blinky-stamp/01_blinky-build.rule
+C:/RSingh/zephyr_exercise/01_blinky/build/_sysbuild/sysbuild/images/01_blinky-prefix/src/01_blinky-stamp/01_blinky-configure.rule
+C:/RSingh/zephyr_exercise/01_blinky/build/_sysbuild/sysbuild/images/01_blinky-prefix/src/01_blinky-stamp/01_blinky-download.rule
+C:/RSingh/zephyr_exercise/01_blinky/build/_sysbuild/sysbuild/images/01_blinky-prefix/src/01_blinky-stamp/01_blinky-install.rule
+C:/RSingh/zephyr_exercise/01_blinky/build/_sysbuild/sysbuild/images/01_blinky-prefix/src/01_blinky-stamp/01_blinky-mkdir.rule
+C:/RSingh/zephyr_exercise/01_blinky/build/_sysbuild/sysbuild/images/01_blinky-prefix/src/01_blinky-stamp/01_blinky-patch.rule
+C:/RSingh/zephyr_exercise/01_blinky/build/_sysbuild/sysbuild/images/01_blinky-prefix/src/01_blinky-stamp/01_blinky-update.rule

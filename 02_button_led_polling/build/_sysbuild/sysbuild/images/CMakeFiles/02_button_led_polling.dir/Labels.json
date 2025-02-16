@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/RSingh/zephyr_exercise/02_button_led_polling/build/_sysbuild/sysbuild/images/CMakeFiles/02_button_led_polling"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/02_button_led_polling/build/_sysbuild/sysbuild/images/CMakeFiles/02_button_led_polling.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/02_button_led_polling/build/_sysbuild/sysbuild/images/CMakeFiles/02_button_led_polling-complete.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/02_button_led_polling/build/_sysbuild/sysbuild/images/02_button_led_polling-prefix/src/02_button_led_polling-stamp/02_button_led_polling-build.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/02_button_led_polling/build/_sysbuild/sysbuild/images/02_button_led_polling-prefix/src/02_button_led_polling-stamp/02_button_led_polling-configure.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/02_button_led_polling/build/_sysbuild/sysbuild/images/02_button_led_polling-prefix/src/02_button_led_polling-stamp/02_button_led_polling-download.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/02_button_led_polling/build/_sysbuild/sysbuild/images/02_button_led_polling-prefix/src/02_button_led_polling-stamp/02_button_led_polling-install.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/02_button_led_polling/build/_sysbuild/sysbuild/images/02_button_led_polling-prefix/src/02_button_led_polling-stamp/02_button_led_polling-mkdir.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/02_button_led_polling/build/_sysbuild/sysbuild/images/02_button_led_polling-prefix/src/02_button_led_polling-stamp/02_button_led_polling-patch.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/02_button_led_polling/build/_sysbuild/sysbuild/images/02_button_led_polling-prefix/src/02_button_led_polling-stamp/02_button_led_polling-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"02_button_led_polling"
+		],
+		"name" : "02_button_led_polling"
+	}
+}

@@ -1,0 +1,7 @@
+default: 07_semaphore
+build_dir: C:/RSingh/zephyr_exercise/07_semaphore/build
+domains:
+  - name: 07_semaphore
+    build_dir: C:/RSingh/zephyr_exercise/07_semaphore/build/07_semaphore
+flash_order:
+  - 07_semaphore

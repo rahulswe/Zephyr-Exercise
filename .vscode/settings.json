@@ -1,0 +1,16 @@
+{
+    "nrf-connect.applications": [
+        "${workspaceFolder}\\02_button_led_polling",
+        "${workspaceFolder}\\03_button_led_interrupt",
+        "${workspaceFolder}\\04_project_from_scratch",
+        "${workspaceFolder}\\05_task_creation",
+        "${workspaceFolder}\\06_time_slicing",
+        "${workspaceFolder}\\01_blinky",
+        "${workspaceFolder}\\07_semaphore",
+        "${workspaceFolder}\\08_mutex"
+    ],
+    "files.associations": {
+        "calc.h": "c",
+        "kernel.h": "c"
+    }
+}

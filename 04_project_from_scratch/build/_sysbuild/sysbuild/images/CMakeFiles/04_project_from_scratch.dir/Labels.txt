@@ -1,0 +1,13 @@
+# Target labels
+ 04_project_from_scratch
+# Source files and their labels
+C:/RSingh/zephyr_exercise/04_project_from_scratch/build/_sysbuild/sysbuild/images/CMakeFiles/04_project_from_scratch
+C:/RSingh/zephyr_exercise/04_project_from_scratch/build/_sysbuild/sysbuild/images/CMakeFiles/04_project_from_scratch.rule
+C:/RSingh/zephyr_exercise/04_project_from_scratch/build/_sysbuild/sysbuild/images/CMakeFiles/04_project_from_scratch-complete.rule
+C:/RSingh/zephyr_exercise/04_project_from_scratch/build/_sysbuild/sysbuild/images/04_project_from_scratch-prefix/src/04_project_from_scratch-stamp/04_project_from_scratch-build.rule
+C:/RSingh/zephyr_exercise/04_project_from_scratch/build/_sysbuild/sysbuild/images/04_project_from_scratch-prefix/src/04_project_from_scratch-stamp/04_project_from_scratch-configure.rule
+C:/RSingh/zephyr_exercise/04_project_from_scratch/build/_sysbuild/sysbuild/images/04_project_from_scratch-prefix/src/04_project_from_scratch-stamp/04_project_from_scratch-download.rule
+C:/RSingh/zephyr_exercise/04_project_from_scratch/build/_sysbuild/sysbuild/images/04_project_from_scratch-prefix/src/04_project_from_scratch-stamp/04_project_from_scratch-install.rule
+C:/RSingh/zephyr_exercise/04_project_from_scratch/build/_sysbuild/sysbuild/images/04_project_from_scratch-prefix/src/04_project_from_scratch-stamp/04_project_from_scratch-mkdir.rule
+C:/RSingh/zephyr_exercise/04_project_from_scratch/build/_sysbuild/sysbuild/images/04_project_from_scratch-prefix/src/04_project_from_scratch-stamp/04_project_from_scratch-patch.rule
+C:/RSingh/zephyr_exercise/04_project_from_scratch/build/_sysbuild/sysbuild/images/04_project_from_scratch-prefix/src/04_project_from_scratch-stamp/04_project_from_scratch-update.rule

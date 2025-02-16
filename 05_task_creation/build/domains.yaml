@@ -1,0 +1,7 @@
+default: 05_task_creation
+build_dir: C:/RSingh/zephyr_exercise/05_task_creation/build
+domains:
+  - name: 05_task_creation
+    build_dir: C:/RSingh/zephyr_exercise/05_task_creation/build/05_task_creation
+flash_order:
+  - 05_task_creation

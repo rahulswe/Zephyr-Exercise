@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/RSingh/zephyr_exercise/07_semaphore/build/_sysbuild/sysbuild/images/CMakeFiles/07_semaphore"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/07_semaphore/build/_sysbuild/sysbuild/images/CMakeFiles/07_semaphore.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/07_semaphore/build/_sysbuild/sysbuild/images/CMakeFiles/07_semaphore-complete.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/07_semaphore/build/_sysbuild/sysbuild/images/07_semaphore-prefix/src/07_semaphore-stamp/07_semaphore-build.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/07_semaphore/build/_sysbuild/sysbuild/images/07_semaphore-prefix/src/07_semaphore-stamp/07_semaphore-configure.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/07_semaphore/build/_sysbuild/sysbuild/images/07_semaphore-prefix/src/07_semaphore-stamp/07_semaphore-download.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/07_semaphore/build/_sysbuild/sysbuild/images/07_semaphore-prefix/src/07_semaphore-stamp/07_semaphore-install.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/07_semaphore/build/_sysbuild/sysbuild/images/07_semaphore-prefix/src/07_semaphore-stamp/07_semaphore-mkdir.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/07_semaphore/build/_sysbuild/sysbuild/images/07_semaphore-prefix/src/07_semaphore-stamp/07_semaphore-patch.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/07_semaphore/build/_sysbuild/sysbuild/images/07_semaphore-prefix/src/07_semaphore-stamp/07_semaphore-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"07_semaphore"
+		],
+		"name" : "07_semaphore"
+	}
+}

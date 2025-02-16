@@ -1,0 +1,13 @@
+# Target labels
+ 07_semaphore
+# Source files and their labels
+C:/RSingh/zephyr_exercise/07_semaphore/build/_sysbuild/sysbuild/images/CMakeFiles/07_semaphore
+C:/RSingh/zephyr_exercise/07_semaphore/build/_sysbuild/sysbuild/images/CMakeFiles/07_semaphore.rule
+C:/RSingh/zephyr_exercise/07_semaphore/build/_sysbuild/sysbuild/images/CMakeFiles/07_semaphore-complete.rule
+C:/RSingh/zephyr_exercise/07_semaphore/build/_sysbuild/sysbuild/images/07_semaphore-prefix/src/07_semaphore-stamp/07_semaphore-build.rule
+C:/RSingh/zephyr_exercise/07_semaphore/build/_sysbuild/sysbuild/images/07_semaphore-prefix/src/07_semaphore-stamp/07_semaphore-configure.rule
+C:/RSingh/zephyr_exercise/07_semaphore/build/_sysbuild/sysbuild/images/07_semaphore-prefix/src/07_semaphore-stamp/07_semaphore-download.rule
+C:/RSingh/zephyr_exercise/07_semaphore/build/_sysbuild/sysbuild/images/07_semaphore-prefix/src/07_semaphore-stamp/07_semaphore-install.rule
+C:/RSingh/zephyr_exercise/07_semaphore/build/_sysbuild/sysbuild/images/07_semaphore-prefix/src/07_semaphore-stamp/07_semaphore-mkdir.rule
+C:/RSingh/zephyr_exercise/07_semaphore/build/_sysbuild/sysbuild/images/07_semaphore-prefix/src/07_semaphore-stamp/07_semaphore-patch.rule
+C:/RSingh/zephyr_exercise/07_semaphore/build/_sysbuild/sysbuild/images/07_semaphore-prefix/src/07_semaphore-stamp/07_semaphore-update.rule

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/RSingh/zephyr_exercise/06_time_slicing/build/_sysbuild/sysbuild/images/CMakeFiles/06_time_slicing"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/06_time_slicing/build/_sysbuild/sysbuild/images/CMakeFiles/06_time_slicing.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/06_time_slicing/build/_sysbuild/sysbuild/images/CMakeFiles/06_time_slicing-complete.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/06_time_slicing/build/_sysbuild/sysbuild/images/06_time_slicing-prefix/src/06_time_slicing-stamp/06_time_slicing-build.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/06_time_slicing/build/_sysbuild/sysbuild/images/06_time_slicing-prefix/src/06_time_slicing-stamp/06_time_slicing-configure.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/06_time_slicing/build/_sysbuild/sysbuild/images/06_time_slicing-prefix/src/06_time_slicing-stamp/06_time_slicing-download.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/06_time_slicing/build/_sysbuild/sysbuild/images/06_time_slicing-prefix/src/06_time_slicing-stamp/06_time_slicing-install.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/06_time_slicing/build/_sysbuild/sysbuild/images/06_time_slicing-prefix/src/06_time_slicing-stamp/06_time_slicing-mkdir.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/06_time_slicing/build/_sysbuild/sysbuild/images/06_time_slicing-prefix/src/06_time_slicing-stamp/06_time_slicing-patch.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/06_time_slicing/build/_sysbuild/sysbuild/images/06_time_slicing-prefix/src/06_time_slicing-stamp/06_time_slicing-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"06_time_slicing"
+		],
+		"name" : "06_time_slicing"
+	}
+}

@@ -1,0 +1,13 @@
+# Target labels
+ 08_mutex
+# Source files and their labels
+C:/RSingh/zephyr_exercise/08_mutex/build/_sysbuild/sysbuild/images/CMakeFiles/08_mutex
+C:/RSingh/zephyr_exercise/08_mutex/build/_sysbuild/sysbuild/images/CMakeFiles/08_mutex.rule
+C:/RSingh/zephyr_exercise/08_mutex/build/_sysbuild/sysbuild/images/CMakeFiles/08_mutex-complete.rule
+C:/RSingh/zephyr_exercise/08_mutex/build/_sysbuild/sysbuild/images/08_mutex-prefix/src/08_mutex-stamp/08_mutex-build.rule
+C:/RSingh/zephyr_exercise/08_mutex/build/_sysbuild/sysbuild/images/08_mutex-prefix/src/08_mutex-stamp/08_mutex-configure.rule
+C:/RSingh/zephyr_exercise/08_mutex/build/_sysbuild/sysbuild/images/08_mutex-prefix/src/08_mutex-stamp/08_mutex-download.rule
+C:/RSingh/zephyr_exercise/08_mutex/build/_sysbuild/sysbuild/images/08_mutex-prefix/src/08_mutex-stamp/08_mutex-install.rule
+C:/RSingh/zephyr_exercise/08_mutex/build/_sysbuild/sysbuild/images/08_mutex-prefix/src/08_mutex-stamp/08_mutex-mkdir.rule
+C:/RSingh/zephyr_exercise/08_mutex/build/_sysbuild/sysbuild/images/08_mutex-prefix/src/08_mutex-stamp/08_mutex-patch.rule
+C:/RSingh/zephyr_exercise/08_mutex/build/_sysbuild/sysbuild/images/08_mutex-prefix/src/08_mutex-stamp/08_mutex-update.rule

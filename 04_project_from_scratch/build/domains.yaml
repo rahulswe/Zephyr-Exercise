@@ -1,0 +1,7 @@
+default: 04_project_from_scratch
+build_dir: C:/RSingh/zephyr_exercise/04_project_from_scratch/build
+domains:
+  - name: 04_project_from_scratch
+    build_dir: C:/RSingh/zephyr_exercise/04_project_from_scratch/build/04_project_from_scratch
+flash_order:
+  - 04_project_from_scratch

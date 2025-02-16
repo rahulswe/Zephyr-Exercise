@@ -1,0 +1,2 @@
+osource "C:/RSingh/zephyr_exercise/01_blinky/boards/shields/*/Kconfig.defconfig"
+osource "C:/ncs/v2.9.0/nrf/boards/shields/*/Kconfig.defconfig"

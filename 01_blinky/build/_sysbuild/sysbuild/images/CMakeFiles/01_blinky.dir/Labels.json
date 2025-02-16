@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/RSingh/zephyr_exercise/01_blinky/build/_sysbuild/sysbuild/images/CMakeFiles/01_blinky"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/01_blinky/build/_sysbuild/sysbuild/images/CMakeFiles/01_blinky.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/01_blinky/build/_sysbuild/sysbuild/images/CMakeFiles/01_blinky-complete.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/01_blinky/build/_sysbuild/sysbuild/images/01_blinky-prefix/src/01_blinky-stamp/01_blinky-build.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/01_blinky/build/_sysbuild/sysbuild/images/01_blinky-prefix/src/01_blinky-stamp/01_blinky-configure.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/01_blinky/build/_sysbuild/sysbuild/images/01_blinky-prefix/src/01_blinky-stamp/01_blinky-download.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/01_blinky/build/_sysbuild/sysbuild/images/01_blinky-prefix/src/01_blinky-stamp/01_blinky-install.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/01_blinky/build/_sysbuild/sysbuild/images/01_blinky-prefix/src/01_blinky-stamp/01_blinky-mkdir.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/01_blinky/build/_sysbuild/sysbuild/images/01_blinky-prefix/src/01_blinky-stamp/01_blinky-patch.rule"
+		},
+		{
+			"file" : "C:/RSingh/zephyr_exercise/01_blinky/build/_sysbuild/sysbuild/images/01_blinky-prefix/src/01_blinky-stamp/01_blinky-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"01_blinky"
+		],
+		"name" : "01_blinky"
+	}
+}

@@ -1,0 +1,7 @@
+default: 06_time_slicing
+build_dir: C:/RSingh/zephyr_exercise/06_time_slicing/build
+domains:
+  - name: 06_time_slicing
+    build_dir: C:/RSingh/zephyr_exercise/06_time_slicing/build/06_time_slicing
+flash_order:
+  - 06_time_slicing

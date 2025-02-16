@@ -1,0 +1,13 @@
+# Target labels
+ 05_task_creation
+# Source files and their labels
+C:/RSingh/zephyr_exercise/05_task_creation/build/_sysbuild/sysbuild/images/CMakeFiles/05_task_creation
+C:/RSingh/zephyr_exercise/05_task_creation/build/_sysbuild/sysbuild/images/CMakeFiles/05_task_creation.rule
+C:/RSingh/zephyr_exercise/05_task_creation/build/_sysbuild/sysbuild/images/CMakeFiles/05_task_creation-complete.rule
+C:/RSingh/zephyr_exercise/05_task_creation/build/_sysbuild/sysbuild/images/05_task_creation-prefix/src/05_task_creation-stamp/05_task_creation-build.rule
+C:/RSingh/zephyr_exercise/05_task_creation/build/_sysbuild/sysbuild/images/05_task_creation-prefix/src/05_task_creation-stamp/05_task_creation-configure.rule
+C:/RSingh/zephyr_exercise/05_task_creation/build/_sysbuild/sysbuild/images/05_task_creation-prefix/src/05_task_creation-stamp/05_task_creation-download.rule
+C:/RSingh/zephyr_exercise/05_task_creation/build/_sysbuild/sysbuild/images/05_task_creation-prefix/src/05_task_creation-stamp/05_task_creation-install.rule
+C:/RSingh/zephyr_exercise/05_task_creation/build/_sysbuild/sysbuild/images/05_task_creation-prefix/src/05_task_creation-stamp/05_task_creation-mkdir.rule
+C:/RSingh/zephyr_exercise/05_task_creation/build/_sysbuild/sysbuild/images/05_task_creation-prefix/src/05_task_creation-stamp/05_task_creation-patch.rule
+C:/RSingh/zephyr_exercise/05_task_creation/build/_sysbuild/sysbuild/images/05_task_creation-prefix/src/05_task_creation-stamp/05_task_creation-update.rule

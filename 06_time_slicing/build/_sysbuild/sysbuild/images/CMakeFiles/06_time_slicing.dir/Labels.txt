@@ -1,0 +1,13 @@
+# Target labels
+ 06_time_slicing
+# Source files and their labels
+C:/RSingh/zephyr_exercise/06_time_slicing/build/_sysbuild/sysbuild/images/CMakeFiles/06_time_slicing
+C:/RSingh/zephyr_exercise/06_time_slicing/build/_sysbuild/sysbuild/images/CMakeFiles/06_time_slicing.rule
+C:/RSingh/zephyr_exercise/06_time_slicing/build/_sysbuild/sysbuild/images/CMakeFiles/06_time_slicing-complete.rule
+C:/RSingh/zephyr_exercise/06_time_slicing/build/_sysbuild/sysbuild/images/06_time_slicing-prefix/src/06_time_slicing-stamp/06_time_slicing-build.rule
+C:/RSingh/zephyr_exercise/06_time_slicing/build/_sysbuild/sysbuild/images/06_time_slicing-prefix/src/06_time_slicing-stamp/06_time_slicing-configure.rule
+C:/RSingh/zephyr_exercise/06_time_slicing/build/_sysbuild/sysbuild/images/06_time_slicing-prefix/src/06_time_slicing-stamp/06_time_slicing-download.rule
+C:/RSingh/zephyr_exercise/06_time_slicing/build/_sysbuild/sysbuild/images/06_time_slicing-prefix/src/06_time_slicing-stamp/06_time_slicing-install.rule
+C:/RSingh/zephyr_exercise/06_time_slicing/build/_sysbuild/sysbuild/images/06_time_slicing-prefix/src/06_time_slicing-stamp/06_time_slicing-mkdir.rule
+C:/RSingh/zephyr_exercise/06_time_slicing/build/_sysbuild/sysbuild/images/06_time_slicing-prefix/src/06_time_slicing-stamp/06_time_slicing-patch.rule
+C:/RSingh/zephyr_exercise/06_time_slicing/build/_sysbuild/sysbuild/images/06_time_slicing-prefix/src/06_time_slicing-stamp/06_time_slicing-update.rule

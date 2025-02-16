@@ -1,0 +1,13 @@
+# Target labels
+ 03_button_led_interrupt
+# Source files and their labels
+C:/RSingh/zephyr_exercise/03_button_led_interrupt/build/_sysbuild/sysbuild/images/CMakeFiles/03_button_led_interrupt
+C:/RSingh/zephyr_exercise/03_button_led_interrupt/build/_sysbuild/sysbuild/images/CMakeFiles/03_button_led_interrupt.rule
+C:/RSingh/zephyr_exercise/03_button_led_interrupt/build/_sysbuild/sysbuild/images/CMakeFiles/03_button_led_interrupt-complete.rule
+C:/RSingh/zephyr_exercise/03_button_led_interrupt/build/_sysbuild/sysbuild/images/03_button_led_interrupt-prefix/src/03_button_led_interrupt-stamp/03_button_led_interrupt-build.rule
+C:/RSingh/zephyr_exercise/03_button_led_interrupt/build/_sysbuild/sysbuild/images/03_button_led_interrupt-prefix/src/03_button_led_interrupt-stamp/03_button_led_interrupt-configure.rule
+C:/RSingh/zephyr_exercise/03_button_led_interrupt/build/_sysbuild/sysbuild/images/03_button_led_interrupt-prefix/src/03_button_led_interrupt-stamp/03_button_led_interrupt-download.rule
+C:/RSingh/zephyr_exercise/03_button_led_interrupt/build/_sysbuild/sysbuild/images/03_button_led_interrupt-prefix/src/03_button_led_interrupt-stamp/03_button_led_interrupt-install.rule
+C:/RSingh/zephyr_exercise/03_button_led_interrupt/build/_sysbuild/sysbuild/images/03_button_led_interrupt-prefix/src/03_button_led_interrupt-stamp/03_button_led_interrupt-mkdir.rule
+C:/RSingh/zephyr_exercise/03_button_led_interrupt/build/_sysbuild/sysbuild/images/03_button_led_interrupt-prefix/src/03_button_led_interrupt-stamp/03_button_led_interrupt-patch.rule
+C:/RSingh/zephyr_exercise/03_button_led_interrupt/build/_sysbuild/sysbuild/images/03_button_led_interrupt-prefix/src/03_button_led_interrupt-stamp/03_button_led_interrupt-update.rule

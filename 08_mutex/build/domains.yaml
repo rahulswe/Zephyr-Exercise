@@ -1,0 +1,7 @@
+default: 08_mutex
+build_dir: C:/RSingh/zephyr_exercise/08_mutex/build
+domains:
+  - name: 08_mutex
+    build_dir: C:/RSingh/zephyr_exercise/08_mutex/build/08_mutex
+flash_order:
+  - 08_mutex
